@@ -1,0 +1,1 @@
+# CIFAR examples package initialization
